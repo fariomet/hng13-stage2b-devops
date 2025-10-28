@@ -4,6 +4,8 @@
 
 This is the React implementation delivered as a single HTML file using CDN scripts (React, ReactDOM, Babel). No build step is required — you can open `index.html` directly in a browser or serve it via any static server.
 
+## Domain: https://hng13-stage2b-devops.vercel.app/
+
 ## Quick Start
 - Double-click `react/index.html` to open in your default browser.
   
